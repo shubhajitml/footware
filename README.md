@@ -1,12 +1,5 @@
 # footware
-Solution of Fynd's machine learning challenge: _**footware classification based on closures**_
-
-[Shared directory containing all related files (dataset, model)](https://drive.google.com/drive/folders/171EYdKfkJLdDEznKYpXcEz00J4Pzkbaa?usp=sharing)
-
-**Uses**:
-    
-    $ python3 predict.py --img "./000021.jpg"
-
+Solution to Fynd's Machine Learning challenge '19: _**footware classification based on closures**_
     
 # Solutions:
 
@@ -15,6 +8,12 @@ Solution of Fynd's machine learning challenge: _**footware classification based 
 
 ## **[2. Detailed notebook with pytorch](https://github.com/shubhajitml/footware/blob/master/Fynd_Closure_pytorch.ipynb)**
 
+
+### Usuage:
+    
+    $ python3 predict.py --img "./000021.jpg"
+
+### Datasets & Trained Model: [[Shared Directory]](https://drive.google.com/drive/folders/171EYdKfkJLdDEznKYpXcEz00J4Pzkbaa?usp=sharing)
 
 ### The Approach: [[ppt]](https://github.com/shubhajitml/footware/blob/master/ppt/Fynd%20Footware%20Classification.pdf)
 
