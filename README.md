@@ -1,5 +1,5 @@
 # footware
-Solution to Fynd's Machine Learning challenge '19: _**footware classification based on closures**_
+Solution to [Fynd's Machine Learning challenge'19](https://blog.gofynd.com/machine-learning-internship-challenge-2019-6b4e9dddb637): _**footware classification based on closures**_
     
 # Solutions:
 
